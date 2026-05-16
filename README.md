@@ -1,6 +1,6 @@
 git# Artificial-Intelligence101
 
-Artificial-Intelligence101 is a curated website project designed to showcase the latest AI foundation models, tools, and resources in an accessible and organized format. This repository is intended to serve as a central hub for learners, developers, and AI enthusiasts who want a single place to explore up-to-date information about modern AI capabilities.
+Artificial-Intelligence101 is a website project designed to showcase nearly all new and avalable AI models with updates via email of latest models and new releases. 
 Developed by Aryan Chakrabarty
 
 ## 🚀 Project Overview
@@ -8,12 +8,12 @@ Developed by Aryan Chakrabarty
 This project aims to present:
 - A catalog of leading AI foundation models across domains such as natural language processing, computer vision, speech, and multimodal AI.
 - Summaries, examples, and reference links for each model.
-- Quick access to usage guides, demos, and model sources.
+- Allow users to access and test those AI models.
 
 ## 📚 What’s Included
 
-- Website content describing AI foundation models.
-- Sections for model categories, resources, and practical examples.
+- Website content describing AI foundation models giving links to access them to.
+- Information on past and fuyure of AI and its different models.
 - A clean starting point for expanding into a full educational AI directory.
 
 ## 🛠️ How to Use
