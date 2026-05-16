@@ -1,6 +1,7 @@
 git# Artificial-Intelligence101
 
 Artificial-Intelligence101 is a curated website project designed to showcase the latest AI foundation models, tools, and resources in an accessible and organized format. This repository is intended to serve as a central hub for learners, developers, and AI enthusiasts who want a single place to explore up-to-date information about modern AI capabilities.
+Developed by Aryan Chakrabarty
 
 ## 🚀 Project Overview
 
